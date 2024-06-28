@@ -10,8 +10,8 @@ The end goal is to create a simple and minmal blog card that is somewhat respons
 ![](./imgs/screenshot.png)
 
 ### Links
-- Solution URL: [GitHub Repo]()
-- Live Site URL: [Demo]()
+- Solution URL: [GitHub Repo](https://github.com/varonalearns/minimal-blog-card)
+- Live Site URL: [Demo](https://varonalearns.github.io/minimal-blog-card/)
 
 ## My Process
 
